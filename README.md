@@ -2,7 +2,7 @@
 <h3 align="center">.Net Developer </h3>
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Engineering+Student;.Net+Developer;Web+Instructor;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </h1>
 
 
@@ -28,9 +28,15 @@
 
 
 <br><br>
-
+<div align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></div>
 <h5 align="center">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-eid-0bb44a23a" target="blank"> <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-eid-0bb44a23a" height="30" width="40" /></code></a><a href="https://fb.com/https://web.facebook.com/profile.php?id=100008244009309" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008244009309" height="30" width="40" /></code></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-eid-0bb44a23a" target="blank">
+   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-eid-0bb44a23a" height="30" width="40" /></code>
+  </a>
+  
+  <a href="https://fb.com/https://web.facebook.com/profile.php?id=100008244009309" target="blank">
+    <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008244009309" height="30" width="40" /></code>
+  </a>
 </h5>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -124,13 +130,32 @@ Things you should know -
   <div align=center>
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20222023&theme=react&border=61dafb&hide_border=true" alt="sayedabdul-aziz" />
     </a>
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mohamed20222023&show_icons=true&locale=en&theme=react&border=61dafb&hide_border=true" alt="sayedabdul-aziz's github stats" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mohamed20222023&show_icons=true&locale=en&theme=react&border=61dafb&hide_border=true" alt="Mohamed Eid's github stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
   
 </p>
+
+
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
